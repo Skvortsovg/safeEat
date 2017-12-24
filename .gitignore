@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+test1.sql
+test2.sql
+__pycache__
+

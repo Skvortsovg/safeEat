@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2016-07-06 07:55+MSK\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+msgid "RESTRICTED_WARNING_TEXT"
+msgstr "⚠️ Этот чат доступен только для авторизованных пользователей! Для того, чтобы продолжить необходим твой контакт. Используй кнопку ниже для того, чтобы оправить мне свой номер"
+
+msgid "LABEL_SHARE_CONTACT_BUTTON"
+msgstr "☎ Отправить контакт"
+
+msgid "MAYBE_TRY_AGAIN_TEXT"
+msgstr "Допустим я подумал, что это опечатка. Попробуй еще раз"
+
+msgid "LABEL_FAKE_BUTTON"
+msgstr "Эта кнопка (пока) не содержит действия"
+
+msgid "PHONE_NOT_ALLOWED_TEXT"
+msgstr "Бот не может с вами общаться в этом чате"
+
+msgid "WRONG_CONTACT_TEXT"
+msgstr "Хмм, что-то не похоже на запись из телефонной книги. Просто нажми на кнопку внизу, чтобы отправить мне свой номер"
+
+msgid "LABEL_OTHER_BUTTON"
+msgstr "Еще кнопка"
+
+msgid "TOP_MENU_TEXT"
+msgstr "Главное меню"
+
+msgid "LABEL_BACK_BUTTON"
+msgstr "⬅️ Назад"
+
+msgid "LABEL_CANCEL_BUTTON"
+msgstr "❌ Отмена"
+
+msgid "LABEL_LOGOUT_BUTTON"
+msgstr "🔓 Выйти"
+
+msgid "UNAUTHORIZED_STATE_TEXT"
+msgstr "Меню неавторизованного пользователя"
+
+msgid "LABEL_AUTHORIZE_BUTTON"
+msgstr "🔐 Войти"
+
+msgid "LABEL_REGISTER_BUTTON"
+msgstr "Зарегистироваться"
+
+msgid "LOGGED_OUT_TEXT"
+msgstr "Пока!"
+
+msgid "LOGGED_IN_TEXT"
+msgstr "Привет."
+
+msgid "LOGGED_IN_GREET_TEXT"
+msgstr "Рад видеть, %s!"
+
+msgid "INPUT_NAME_TEXT"
+msgstr "Введи имя"
+
+msgid "INPUT_BIRTH_YEAR_TEXT"
+msgstr "Введи год рождения"
+
+msgid "CHOOSE_SEX_TEXT"
+msgstr "Выбери свой пол"
+
+msgid "INPUT_HEIGHT_TEXT"
+msgstr "Введи рост в сантиметрах"
+
+msgid "INPUT_WEIGHT_TEXT"
+msgstr "Введи вес в килограммах"
+
+msgid "MALE_BUTTON"
+msgstr "М"
+
+msgid "FEMALE_BUTTON"
+msgstr "Ж"
+
+msgid "LABEL_ADD_NEW_DISH"
+msgstr "Добавить Новое блюдо"
+
+msgid "LABEL_ADD_DISH_EATEN"
+msgstr "Добавить съеденное блюдо"
+
+msgid "LABEL_TODAY_REPORT"
+msgstr "Отчет за сегодня"
+
+msgid "CHOOSE_LIFESTYLE_TEXT"
+msgstr "Выбери образ жизни"
+
+msgid "CHOOSE_GOAL_TEXT"
+msgstr "Выбери цель"
+
+msgid "SEDENTARY_LIFESTYLE_BUTTON"
+msgstr "Сидачий, малоподвижный"
+
+msgid "EASY_ACTIVITY_BUTTON"
+msgstr "Легкая активность"
+
+msgid "AVERAGE_ACTIVITY_BUTTON"
+msgstr "Средняя активность"
+
+msgid "HIGH_ACTIVITY_BUTTON"
+msgstr "Высокая активность"
+
+msgid "VERY_HIGH_ACTIVITY_BUTTON"
+msgstr "Экстремально высокая активность"
+
+msgid "LOST_WEIGHT_BUTTON"
+msgstr "Сбросить вес"
+
+msgid "GAIN_MUSCLE_MASS_BUTTON"
+msgstr "Набрать мышечную массу"
+
+msgid "SUPPORT_WEIGHT_BUTTON"
+msgstr "Поддерживать вес"
+
+msgid "DAILY_REPORT_TEXT"
+msgstr "Выши данные за сегодня. В скобках указано рекомендованное суточное значение:\nКалории: *{r[calories]}* ({n[calories]})\nБелки: *{r[proteins]}* ({n[proteins]})\nЖиры: *{r[fats]}* ({n[proteins]})\nУглеводы: *{r[carbohydrates]}* ({n[carbohydrates]})"
+
+msgid "INPUT_DISH_TITLE"
+msgstr "Введите название блюда"
+
+msgid "INPUT_DISH_DESCRIPTION"
+msgstr "Введите описание блюда"
+
+msgid "INPUT_INGREDIENT_TYPE"
+msgstr "Выбери тип ингредиента"
+
+msgid "INPUT_INGR_NUM_AND_COUNT"
+msgstr "Введи название выбранного ингредиента и его количество в граммах в данном блюде через пробел"
+
+msgid "END_RECIPE_BUTTON"
+msgstr "Всё"
+
+msgid "RECIPE_ADDED_TEXT"
+msgstr "Рецепт добавлен"
+
+msgid "ERROR_TEXT"
+msgstr "Ошибка!"
+
+msgid "DISH_ADDED_TEXT"
+msgstr "Блюдо добавлено"
+
+msgid "WRONG_VALUE_INT_EXPECTED"
+msgstr "Неверный формат входных даннных. Необходимо ввести номер группы"
+
+msgid "WRONG_VALUE_INGR_AMOUNT_EXPECTED"
+msgstr "Неверный формат входных даннных. Необходимо ввести номер ингредиента и его количество в блюде через пробел"
+
+msgid "ADD_ANOTHER_INGR_OR_STOP_TEXT"
+msgstr "Ингридиент добавлен. Добавь еще один или нажми на кнопку ВСЁ"
+
+msgid "INPUT_DISH_NAME"
+msgstr "Введи название блюда"
+
+msgid "DISH_NOT_FOUND_TEXT"
+msgstr "Блюдо не найдено"
+
+msgid "DISH_EATEN_TEXT"
+msgstr "Блюдо съедено!"
